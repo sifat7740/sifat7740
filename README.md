@@ -21,11 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat7740&" alt="sifat7740" /></p>
 
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sifat7740&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sifat7740&layout=compact&theme=default) |
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=sifat7740&style=flat-square)
 
 
