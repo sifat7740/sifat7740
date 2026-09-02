@@ -28,4 +28,5 @@
 __
 
 ![Profile views](https://komarev.com/ghpvc/?username=sifat7740&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat7740&" alt="sifat7740" /></p>
 
