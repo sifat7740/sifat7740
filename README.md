@@ -20,3 +20,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sifat7740&show_icons=true&locale=en" alt="sifat7740" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sifat7740&" alt="sifat7740" /></p>
+## 📊 GitHub Stats  
+
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
