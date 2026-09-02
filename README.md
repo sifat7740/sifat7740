@@ -30,4 +30,4 @@ __
 ![Profile views](https://komarev.com/ghpvc/?username=sifat7740&style=flat-square)
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sifat7740&theme=github-compact" alt="GitHub Contribution Graph">
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sifat7740&theme=github-compact)](https://github.com/sifat7740)
